@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Conceptualización en BPG para bovinos de leche',
+    descripcionCurso:
+      'Dentro de este componente se comprenderán los conceptos de las diferentes actividades, procesos, procedimientos, así como la normativa para la implementación de las buenas prácticas ganaderas en bovinos de leche, las cuales permitirán entender de manera integral su aplicación dentro de la unidad pecuaria.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
   },
   menuPrincipal: {
@@ -22,14 +23,20 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Empresa ganadera bovina de leche',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Estructura y características',
             hash: 't_1_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo: 'Funciones',
+            hash: 't_1_2',
           },
         ],
       },
@@ -38,14 +45,127 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Política sanitaria y de inocuidad en alimentos',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo: 'Normatividad',
+            hash: 't_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo: 'Implicaciones e importancia',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo:
+          'Buenas Prácticas Ganaderas en la producción de bovinos de leche - BPG',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.1',
+            titulo: 'Componentes BPG',
+            hash: 't_3_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.2',
+            titulo: 'Criterios de cumplimiento y listas de chequeo',
+            hash: 't_3_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.3',
+            titulo: 'Aplicación BPG',
+            hash: 't_3_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Protocolos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.1',
+            titulo: 'Diseño',
+            hash: 't_4_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.2',
+            titulo: 'Modelos e interpretación',
+            hash: 't_4_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: 'Recursos para implementación BPG',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.1',
+            titulo: 'Clasificación',
+            hash: 't_5_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.2',
+            titulo: 'Tipos, uso manejo BPG',
+            hash: 't_5_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        icono: 'far fa-file-alt',
+        numero: '6',
+        titulo:
+          'Diagnóstico de aplicación de buenas prácticas ganaderas en el predio',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema7',
+        icono: 'far fa-file-alt',
+        numero: '7',
+        titulo: 'Normativa en seguridad y salud en el trabajo',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '7.1',
+            titulo: 'Riesgos en ganadería de leche',
+            hash: 't_7_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '7.2',
+            titulo: 'Indumentaria necesaria en ganadería de leche',
+            hash: 't_7_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema8',
+        icono: 'far fa-file-alt',
+        numero: '8',
+        titulo: 'Gestión ambiental y de calidad',
         desarrolloContenidos: true,
       },
     ],

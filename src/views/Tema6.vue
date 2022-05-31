@@ -4,8 +4,8 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 3
-      h1 Buenas Prácticas Ganaderas en la producción de bovinos de leche - BPG
+        span 6
+      h1 Diagnóstico de aplicación de buenas prácticas ganaderas en el predio
 
 </template>
 
