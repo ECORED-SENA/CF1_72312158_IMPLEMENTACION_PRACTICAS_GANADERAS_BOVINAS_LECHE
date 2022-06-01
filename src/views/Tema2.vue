@@ -117,6 +117,9 @@
               p.mb-0 Uno de los eslabones más importantes es el primario; es decir, las unidades productivas de ganado de diversos tipos. Es por eso, que las políticas del gobierno establecen a través de los diferentes CONPES, decretos y otras normas sobre programas y planes dirigidos a este eslabón, los cuales al pasar el tiempo se reúnen en el programa de Buenas Prácticas Ganaderas BPG que veremos a continuación:
             .col-lg-4 
               img(src='@/assets/curso/tema2/img11.png', style="width: 350px") 
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
 </template>
 <script>
 export default {
