@@ -6,14 +6,14 @@
       .titulo-principal__numero
         span 5
       h1 Recursos para implementación BPG
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right")
       .col-lg-10
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     Separador
     #t_5_1
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 5.1 Diseño
     p.mb-5 Las buenas prácticas ganaderas BPG se pueden clasificar en las siguientes:
     .row.mb-5.h-100
@@ -37,12 +37,12 @@
       img(src='@/assets/curso/tema5/img03.svg', style="width: 850px").m-auto
     Separador
     #t_5_2
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 5.2 Tipos, uso manejo BPG
     p El uso y manejo que se da a las BPG se encuentra enfocado en obtener un producto inocuo, mejorar la seguridad y salud en el trabajo, mitigar el impacto negativo que tienen las producciones ganaderas en el medio ambiente, mejorar la rentabilidad de la producción entre otros.
     p Para lograr un exitoso uso y manejo de las BPG, es necesario establecer los protocolos para las actividades que lo requieran y realizar el adecuado manejo de los registros, labores que van a permitir tomar decisiones a tiempo y establecer las medidas correctivas necesarias para el mejoramiento de la productividad de la empresa ganadera.
     p.mb-5 #[b Ya conociendo lo anterior, es importante conocer cada uno de los componentes que se deben tener en cuenta en el uso y manejo de las BPG, veamos sus descripciones:]
-    .tarjeta.tarjeta--verde.p-5.mb-5
+    .tarjeta.tarjeta--verde.p-5.mb-5(data-aos="fade-right")
       LineaTiempoC.color-acento-contenido(text-small)
         .row(titulo="Instalaciones").align-items-center.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
@@ -115,7 +115,7 @@
             figure
               img(src='@/assets/curso/tema5/img10.png', style="width: 250px")
     figure
-      img(src='@/assets/curso/tema5/img04.svg', style="width: 850px").m-auto
+      img(src='@/assets/curso/tema5/img04.svg', style="width: 850px").m-auto(data-aos="fade-right")
 
 </template>
 

@@ -8,13 +8,13 @@
       h1 Normativa en seguridad y salud en el trabajo
     p La seguridad y salud en el trabajo es una actividad multidisciplinaria que a través de la promoción y prevención busca mejorar el bienestar de los trabajadores y evitar los accidentes en el ambiente laboral, para lograr esto se propone que se tenga en cuenta las condiciones de trabajo, así como la organización de este con el fin de reducir sustancialmente los factores de riesgo que puedan derivar en enfermedades o accidentes de tipo laboral.
     p.mb-5 #[b La normativa colombiana en seguridad y salud en el trabajo, está enmarcada en 13 leyes, decretos y resoluciones que deben implementarse en el cumplimiento de la salud laboral en Colombia. A continuación, encontrará la normatividad en seguridad y salud en el trabajo que se deben tener en cuenta en la matriz de requisitos legales:]
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-10.bg10
         .p-4
           LineaTiempoB.color-secundario(:datos="datosLineaTiempoB")
     Separador
     #t_7_1
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 7.1 Riesgos en ganadería de leche
     p Es recomendable que, si se quieren reducir los riesgos en las ganaderías de leche, en la finca se debe hacer una valoración de los peligros potenciales y a partir de esta se deben plantear las medidas y acciones necesarias para su control.
     p.mb-5 #[b Las personas que trabajan en las explotaciones ganaderas de leche están expuestas a varios tipos de riesgos que se muestran a continuación. Esto se relaciona con el fin de que todas las personas implicadas en esta actividad los tengan en cuenta y puedan disminuir el número de accidentes y así mejorar las condiciones de trabajo:]
@@ -85,10 +85,10 @@
               img(src='@/assets/curso/tema7/img10.svg', style="width: 150px").m-auto
     Separador
     #t_7_2
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 7.2 Indumentaria necesaria en ganadería de leche
     p.mb-5 Cuando se trabaja con ganadería de leche, es inevitable utilizar la indumentaria necesaria como medida complementaria para la intervención de los actos y condiciones inseguras. A continuación, encontrará un cuadro que contiene la información de los Elementos de Protección Personal (EPP) que se deben utilizar en el desarrollo de las labores en la ganadería de leche:
-    SlyderF(columnas="col-lg-6 col-xl-4")
+    SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="fade-right")
       .tarjeta-avatar
         img(src='@/assets/curso/tema7/img01.png' alt='AvatarTop')
         .tarjeta.color-secundario

@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Buenas Prácticas Ganaderas en la producción de bovinos de leche - BPG
-    .row.bg01.align-items-center
+    .row.bg01.align-items-center(data-aos="fade-right")
       .col-lg-7.p-5
         p.mb-0 Las buenas prácticas ganaderas son todas aquellas acciones que se realizan en el primer eslabón de la cadena lechera bovina, dirigidas a que se asegure la inocuidad, calidad y trazabilidad de la leche, así como que se proteja el medio ambiente y el personal involucrado en la producción de la misma. Este tipo de prácticas se sugiere con el objeto de que en la producción se puedan disminuir los riesgos biológicos, físicos y químicos en la producción primaria de los alimentos de origen animal, que puedan ocasionar riesgos a los consumidores promoviendo la sanidad, bienestar animal y protección del medio ambiente.
       .col-lg-5.mb-4.mb-lg-0
@@ -14,10 +14,10 @@
           img(src='@/assets/curso/tema3/img01.png', style="width: 450px").m-auto
     Separador
     #t_3_1
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 Componentes BPG
     p.mb-5 Los componentes que integran las buenas prácticas están divididos en temáticas de gran importancia que abordan otros subtemas, los cuales se desarrollan a través de los requerimientos para la implementación del programa. #[b Por consiguiente, a continuación, se nombran los componentes para las BPG:]
-    TabsB.color-acento-contenido
+    TabsB.color-acento-contenido(data-aos="fade-right")
       .py-4.py-md-5(titulo="Requisitos sanitarios: sanidad animal y bioseguridad")
         .row
           .col-lg-6.mb-4.mb-lg-0
@@ -130,9 +130,9 @@
               img(src='@/assets/curso/tema3/img05.png', style="width: 250px")
     Separador
     #t_3_2
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.2 Criterios de cumplimiento y listas de chequeo
-    .row.bg03.align-items-center.mb-5
+    .row.bg03.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-5.mt-4.mt-lg-0
         figure
           img(src='@/assets/curso/tema3/img06.png', style="width: 450px").m-auto
@@ -155,11 +155,11 @@
                     i.fas.fa-file-download(style="color: #12263F !important")
     Separador
     #t_3_3
-    .titulo-segundo.color-acento-contenido
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.3 Aplicación BPG
     p.mb-5 Para hacer la aplicación de las Buenas Prácticas Ganaderas en la producción es necesario intervenir diferentes aspectos como la infraestructura, los procesos, los procedimientos, planes, registros, documentos, el manejo, entre otros; estas intervenciones no requieren de muchos costos extras sino más bien de tiempo y disposición de los productores y el personal involucrado para que los cambios hagan efecto. #[b Por otra parte, para las unidades productivas la aplicación de las BPG conlleva a que se tengan múltiples beneficios, entre los que se destacan:]
     .img-position1
-      img(src='@/assets/curso/tema3/img03.svg', style="width: 1600px")
+      img(src='@/assets/curso/tema3/img03.svg', style="width: 1600px")(data-aos="fade-right")
       
 
 </template>

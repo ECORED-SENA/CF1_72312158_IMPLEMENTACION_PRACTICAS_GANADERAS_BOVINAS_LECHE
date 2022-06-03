@@ -11,7 +11,7 @@
         p.mb-0 La empresa ganadera se define como una unidad económica de producción que combina factores, tales como tierra, mano de obra, entre otros; empleando determinada técnica, con el objeto de producir bienes, en este caso leche, que es destinada a la venta en el mercado; siendo, por lo tanto, una unidad de control y de toma de decisiones.
       .col-lg-4
         figure.mb-4.mb-lg-0
-         img(src='@/assets/curso/tema1/img01.png', style="width: 400px").m-auto(data-aos="fade-right") 
+         img(src='@/assets/curso/tema1/img01.png', style="width: 400px").m-auto(data-aos="fade-right")
     p.mb-5 Gracias a su ubicación geográfica, Colombia cuenta con gran variedad de pisos térmicos que van desde el nivel del mar hasta regiones de páramo, esto permite la producción de diferentes razas bovinas productoras de carne, leche y doble propósito.
     .row.justify-content-center.mb-5(data-aos="fade-right")  
       .col-md-12.bg2.p-5
@@ -22,13 +22,13 @@
             h3.mb-5.text-center 10 departamentos de Colombia en población Bovina
           .col-lg-10
             figure
-              img(src='@/assets/curso/tema1/img02.svg', style="width: 820px").m-auto(data-aos="fade-right")  
+              img(src='@/assets/curso/tema1/img02.svg', style="width: 820px").m-auto(data-aos="fade-right")
     .row.justify-content-center
       .col-lg-10
         .cajon.color-acento-contenido.p-4(data-aos="fade-right")
           .row.align-items-center
             .col-auto
-              img(src='@/assets/curso/tema1/img03.svg', style="width: 70px") 
+              img(src='@/assets/curso/tema1/img03.svg', style="width: 70px")
             .col
               p.mb-0 Siendo la producción de leche un eslabón de importancia para la economía del país aportando cerca del 9,5% del PIB del sector agropecuario, lo cual representa el 25% del PIB pecuario, que se traduce en 365.000 productores en el territorio nacional y una producción manufacturera de lácteos de 3,8%. (ICA, 2021).
     Separador
@@ -75,7 +75,7 @@
         .cajon.color-acento-contenido.p-4(data-aos="fade-right")
           .row.align-items-center
             .col-auto
-              img(src='@/assets/curso/tema1/img2.svg', style="width: 100px") 
+              img(src='@/assets/curso/tema1/img2.svg', style="width: 100px")
             .col
               p.mb-0 En el caso de Colombia se utilizan dos, los cuales serían los sistemas especializado y doble propósito, siendo este último representado con el 70% de las cabezas de ganado de este tipo, que contribuyen con el 50% de la producción nacional de leche.
     .row.justify-content-center.align-items-center(data-aos="fade-right")

@@ -9,7 +9,7 @@
     .cajon.color-acento-contenido.p-4(data-aos="fade-right")
       .row.align-items-center
         .col-auto
-          img(src='@/assets/curso/tema4/img01.svg', style="width: 100px") 
+          img(src='@/assets/curso/tema4/img01.svg', style="width: 100px")
         .col
           p.mb-0 Un protocolo es un documento que describe el conjunto de actividades o medidas que deberá ejecutar el personal de la empresa pecuaria para atender una situación específica de la producción. Estas hojas de ruta o protocolos son de suma importancia en la producción pecuaria, ya que son aplicados a actividades que se desarrollan en el día a día y permiten tomar decisiones importantes durante un procedimiento o un evento importante.
     Separador
