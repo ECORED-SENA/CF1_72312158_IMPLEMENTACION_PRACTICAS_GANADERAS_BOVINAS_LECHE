@@ -1,26 +1,6 @@
-
-.etiqueta
-  background-color: #FFCE7E
-  color: #000
-
-.bg01
-  background-image: url("../assets/curso/tema1/img1.svg") 
-  background-repeat: no-repeat
-  background-size: contain
-  background-position-y: center
-
-.bg02
-  background-image: url("../assets/curso/tema2/img03.svg") 
-  background-repeat: no-repeat
-  background-size: contain
-  background-position: center
-
-.bg2
-  background-color:#EBF5E7
-
-.bg3
-  background-color: #FFD63D
-  border-radius: 14px
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #FF854E
+  background-size: 24px 24px
 
 .cajon.color-acento-contenido
   background-color: #FFF3C6
@@ -70,5 +50,199 @@
   background-color: #FF854E
   border-color: #FF854E
   opacity: 1
+
 .slyder-a__btn--atrs 
-    background-color:#FF854E
+  background-color:#FF854E
+
+.tabs-b.color-acento-contenido .tabs-b__tab--active
+  border-top-color: #79BE60 !important
+  span
+    color: #79BE60
+
+.tabs-b__tab
+  border-bottom: 0px
+  border-right: 2px solid #BBDEAF
+
+.tarjeta.color-primario
+  background-color: #5AE6DA
+  h3
+    color: #12263F
+  p
+    color: #12263F
+
+.tarjeta-flip.color-primario .tarjeta-flip__contenido
+  background-color: #DDEFD7
+  h4
+    color: #12263F
+
+.tarjeta.tarjeta--verde
+  background-color: #EBF5E7
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+  border: 1px solid #FF854E
+
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot
+  border-color: #FF854E
+
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot::after
+  background-color: #FF854E
+
+
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__line-container::before
+  background-color: #FF854E
+
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__dot
+  border-color: #FF854E
+
+
+.linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container::before, .linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container::after
+  background-color: #FF854E
+
+.linea-tiempo-b.color-secundario .linea-tiempo-b__icon
+  background-color: #FF854E
+
+.linea-tiempo-b.color-secundario .linea-tiempo-b__icon::after
+  background-color: #FF854E
+
+.linea-tiempo-b__icon img
+  width: 60%
+
+.slyder-a__tipo-a .slyder-a__bullets
+  bottom: -20px
+
+.slyder-a__tipo-a .slyder-a__btn--atrs
+  left: -40px
+
+.slyder-a__tipo-a .slyder-a__btn--sigt
+  right: -40px
+
+.tarjeta-avatar
+  height: 490px
+
+.tarjeta.color-secundario
+  background-color: #EBF5E7
+  h4
+    color: #12263F !important
+  p
+    color: #12263F !important
+
+.slyder-f__btn i
+  color: #FF854E
+
+.banner-principal__row .banner-principal__img
+  position: relative
+  right: -55px
+
+.banner-principal__img
+  background-image: url("../assets/curso/portada/float3.svg"), url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float1.png"), url("../assets/curso/portada/banner-princiapal.png")
+  align-self: stretch
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat
+  background-position: 17% 85%, 90% 10%, 30% 80%, 100% 0%
+  background-size: 15%, 15%, 25%, 475px
+  animation: Flitp 6s ease infinite
+  img
+    display: none !important
+
+@keyframes Flitp
+  0%
+    background-image: url("../assets/curso/portada/float3.svg"), url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float1.png"), url("../assets/curso/portada/banner-princiapal.png")
+  25%
+    background-image: url("../assets/curso/portada/float3.svg"), url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float1.png"), url("../assets/curso/portada/banner-princiapal.png")
+  50%
+    background-image: url("../assets/curso/portada/float3.svg"), url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float1.png"), url("../assets/curso/portada/banner-princiapal.png")
+    background-position: 50% 85%, 90% 40%, 30% 50%, 100% 0%
+  75%
+    background-image: url("../assets/curso/portada/float3.svg"), url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float1.png"), url("../assets/curso/portada/banner-princiapal.png")
+  100%
+    background-image: url("../assets/curso/portada/float3.svg"), url("../assets/curso/portada/float2.svg"), url("../assets/curso/portada/float1.png"), url("../assets/curso/portada/banner-princiapal.png")
+
+.etiqueta
+  background-color: #FFCE7E
+  color: #000
+
+.bg01
+  background-image: url("../assets/curso/tema1/img1.svg") 
+  background-repeat: no-repeat
+  background-size: contain
+  background-position-y: center
+
+.bg02
+  background-image: url("../assets/curso/tema2/img03.svg") 
+  background-repeat: no-repeat
+  background-size: cover
+
+.bg03
+  background-image: url("../assets/curso/tema3/img01.svg") 
+  background-repeat: no-repeat
+  background-size: cover
+
+.bg1
+  background-image: url("../assets/curso/tema2/img1.svg") 
+  background-repeat: no-repeat
+  background-size: contain
+  background-position-y: center
+
+.bg2
+  background-color:#EBF5E7
+
+.bg3
+  background-color: #FFD63D
+  border-radius: 14px
+
+.bg4
+  background-image: url("../assets/curso/tema4/img02.svg") 
+  background-repeat: no-repeat
+  background-size: cover
+  background-position-y: center
+
+.bg5
+  background-color: #FFD63D
+
+.bg6
+  background-color: #FFF7D8
+
+.bg7
+  background-color: #FF854E
+
+.bg8
+  background-color: #FFE7DD
+
+.bg9
+  background-color: #79BE60
+
+.bg10
+  background-color: #FAFAFA
+  border-radius: 15px
+
+.hy
+  height: 100%
+
+.img-position1
+  margin-inline: -3.2rem !important
+
+@media only screen and (max-width: 1199px)
+  .banner-principal .tarjeta
+    background-size: auto
+    background-position: 0
+    background-repeat: no-repeat
+
+@media only screen and (max-width: 1400px)
+
+  .banner-principal__row .banner-principal__img
+    right: 0px
+
+@media only screen and (max-width: 1200px)
+
+  .banner-principal__row .banner-principal__img
+    width: 400px
+
+@media screen and ( max-width: 992px )
+
+  .bg01
+    background-size: cover
+
+  .bg1
+    background-size: cover
+
+  .tarjeta-avatar
+    height: 420px

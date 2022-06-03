@@ -7,24 +7,23 @@
         span 1
       h1 Empresa ganadera bovina de leche
     .row.bg01.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-7.p-5
+      .col-lg-7.p-4
         p.mb-0 La empresa ganadera se define como una unidad económica de producción que combina factores, tales como tierra, mano de obra, entre otros; empleando determinada técnica, con el objeto de producir bienes, en este caso leche, que es destinada a la venta en el mercado; siendo, por lo tanto, una unidad de control y de toma de decisiones.
-      .col-lg-4.mb-3
-        figure
-         img(src='@/assets/curso/tema1/img01.png', style="width: 350px").m-auto(data-aos="fade-right") 
-    p.mb-5 Gracias a su ubicación geográfica, Colombia cuenta con gran variedad de pisos térmicos que van desde el nivel del mar hasta regiones de páramo, esto permite la producción de diferentes razas bovinas productoras de carne, leche y doble propósito.  
-
+      .col-lg-4
+        figure.mb-4.mb-lg-0
+         img(src='@/assets/curso/tema1/img01.png', style="width: 400px").m-auto(data-aos="fade-right") 
+    p.mb-5 Gracias a su ubicación geográfica, Colombia cuenta con gran variedad de pisos térmicos que van desde el nivel del mar hasta regiones de páramo, esto permite la producción de diferentes razas bovinas productoras de carne, leche y doble propósito.
     .row.justify-content-center.mb-5(data-aos="fade-right")  
-      .col-md-12.bg2
-        .row.py-5.px-4
+      .col-md-12.bg2.p-5
+        .row.justify-content-center
           .col-lg-12
-            h3 Población Bovina ICA 2021
-            p De acuerdo al ICA en el año 2021, la población Bovina está distribuida en 633.408 predios y constituida aproximadamente por 28 millones de animales. El 70% se concentra en diez departamentos del país:
+            h3.mb-0 Población Bovina ICA 2021
+            p.mb-5 De acuerdo al ICA en el año 2021, la población Bovina está distribuida en 633.408 predios y constituida aproximadamente por 28 millones de animales. El 70% se concentra en diez departamentos del país:
             h3.mb-5.text-center 10 departamentos de Colombia en población Bovina
-          .col-lg-12
+          .col-lg-10
             figure
-              img(src='@/assets/curso/tema1/img02.svg', style="width: 520px").m-auto(data-aos="fade-right")  
-    .row.justify-content-center.mb-5
+              img(src='@/assets/curso/tema1/img02.svg', style="width: 820px").m-auto(data-aos="fade-right")  
+    .row.justify-content-center
       .col-lg-10
         .cajon.color-acento-contenido.p-4(data-aos="fade-right")
           .row.align-items-center
@@ -76,10 +75,10 @@
         .cajon.color-acento-contenido.p-4(data-aos="fade-right")
           .row.align-items-center
             .col-auto
-              img(src='@/assets/curso/tema1/img03.svg', style="width: 70px") 
+              img(src='@/assets/curso/tema1/img2.svg', style="width: 100px") 
             .col
               p.mb-0 En el caso de Colombia se utilizan dos, los cuales serían los sistemas especializado y doble propósito, siendo este último representado con el 70% de las cabezas de ganado de este tipo, que contribuyen con el 50% de la producción nacional de leche.
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-5
         figure
           img.mb-5(data-aos="fade-right")(src='@/assets/curso/tema1/img06.png', style="width: 650px").m-auto
