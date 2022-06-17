@@ -44,7 +44,7 @@
     p Para lograr un exitoso uso y manejo de las BPG, es necesario establecer los protocolos para las actividades que lo requieran y realizar el adecuado manejo de los registros, labores que van a permitir tomar decisiones a tiempo y establecer las medidas correctivas necesarias para el mejoramiento de la productividad de la empresa ganadera.
     p.mb-5 #[b Ya conociendo lo anterior, es importante conocer cada uno de los componentes que se deben tener en cuenta en el uso y manejo de las BPG, veamos sus descripciones:]
     .tarjeta.tarjeta--verde.p-5.mb-5(data-aos="fade-right")
-      LineaTiempoC.color-acento-contenido(text-small)
+      LineaTiempoC.color-acento-contenido
         .row(titulo="Instalaciones").align-items-center.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
             p #[b Instalaciones]

@@ -38,10 +38,15 @@
 .bloque-texto-g__img 
     width: 31%
     position: absolute
+    @media screen and ( max-width: 992px )
+      width: 100%
+
 
 .bloque-texto-g__texto 
     position: relative
     width: 75%
+    @media screen and ( max-width: 992px )
+      width: 100%
 
 .tarjeta--amarilla2
   background-color: #EBF5E7
@@ -55,9 +60,12 @@
   background-color:#FF854E
 
 .tabs-b.color-acento-contenido .tabs-b__tab--active
-  border-top-color: #79BE60 !important
+  border-top-color: #006C62 !important
   span
-    color: #79BE60
+    color: #006C62
+  
+.tabs-b__tab__title 
+  font-size: 18px
 
 .tabs-b__tab
   border-bottom: 0px
@@ -81,12 +89,15 @@
 .linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
   border: 1px solid #FF854E
 
+.linea-tiempo-c__header__btn--left i, .linea-tiempo-c__header__btn--right i
+  color: #FF854E
+
+
 .linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot
   border-color: #FF854E
 
 .linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__dot::after
   background-color: #FF854E
-
 
 .linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--active .linea-tiempo-c__header__item__line-container::before
   background-color: #FF854E
@@ -94,13 +105,16 @@
 .linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__dot
   border-color: #FF854E
 
-
 .linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container::before, .linea-tiempo-c.color-acento-contenido .linea-tiempo-c__header__item--before .linea-tiempo-c__header__item__line-container::after
   background-color: #FF854E
 
 .linea-tiempo-b.color-secundario .linea-tiempo-b__icon
   background-color: #FF854E
-
+  width: 70%
+  border-radius: 70%
+  padding-top: 70%
+  left: 22px
+  
 .linea-tiempo-b.color-secundario .linea-tiempo-b__icon::after
   background-color: #FF854E
 
@@ -196,6 +210,10 @@
   background-size: cover
   background-position-y: center
 
+.bg11
+  background-color: #FFF3C6
+  border-radius: 30px
+
 .bg5
   background-color: #FFD63D
 
@@ -247,3 +265,4 @@
 
   .tarjeta-avatar
     height: 420px
+

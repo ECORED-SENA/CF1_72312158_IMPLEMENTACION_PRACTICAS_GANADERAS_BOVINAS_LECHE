@@ -21,64 +21,64 @@
     .tarjeta.tarjeta--amarilla2.p-5
       SlyderA
         .row.align-items-center.justify-content-center
-          .col-lg-8.mb-4.mb-lg-0
-            p #[b MECÁNICO]
+          .col-lg-8.col-11.mb-4.mb-lg-0.pb-5
+            h4 MECÁNICO
             p.mb-0 Este tipo de riesgo es el más grande en las ganaderías de leche y pueden ser accidentes relacionados con los equipos ya que, para realizar estas actividades, se hace uso de máquinas, herramientas o piezas, las cuales le pueden generar lesiones a quien las opere. También está relacionado con las instalaciones de las explotaciones ganaderas como por ejemplo condiciones del terreno muy adversas.
           .col-auto
             figure
               img(src='@/assets/curso/tema7/img02.svg', style="width: 150px").m-auto
         .row.align-items-center.justify-content-center
-          .col-lg-8.mb-4.mb-lg-0
-            p #[b ERGONÓMICO]
+          .col-lg-8.col-11mb-4.mb-lg-0.pb-5
+            h4 ERGONÓMICO
             p.mb-0 Los trabajadores de las explotaciones pecuarias pueden sufrir lesiones por sobreesfuerzos por el manejo de animales o de equipos (frecuencia de manejo o excesivo peso de estos) o por mantener una postura durante mucho tiempo.
           .col-auto
             figure
               img(src='@/assets/curso/tema7/img03.svg', style="width: 150px").m-auto
         .row.align-items-center.justify-content-center
-          .col-lg-8.mb-4.mb-lg-0
-            p #[b BIOLÓGICO]
+          .col-lg-8.col-11.mb-4.mb-lg-0.pb-5
+            h4 BIOLÓGICO
             p.mb-0 Este riesgo se da sobre todo por el contacto y la manipulación, sin ninguna protección, de los fluidos y residuos, tanto de animales como de plantas. Se pueden presentar alergias, toxicidad secundaria a la exposición a material biológico, zoonosis, enfermedades relacionadas con virus, bacterias, hongos, entre otros contaminantes.
           .col-auto
             figure
               img(src='@/assets/curso/tema7/img04.svg', style="width: 150px").m-auto
         .row.align-items-center.justify-content-center
-          .col-lg-8.mb-4.mb-lg-0
-            p #[b LOCATIVO]
+          .col-lg-8.col-11.mb-4.mb-lg-0.pb-5
+            h4 LOCATIVO
             p.mb-0 Hace referencia a las condiciones físicas de los lugares de trabajo, como por ejemplo los corrales de los animales, los espacios donde se guardan insumos para alimentación o atención de los animales, pasillos, salas de ordeño, entre otros, los cuales pueden generar caídas a nivel o a desnivel.
           .col-auto
             figure
               img(src='@/assets/curso/tema7/img05.svg', style="width: 150px").m-auto
         .row.align-items-center.justify-content-center
-          .col-lg-8.mb-4.mb-lg-0
-            p #[b FÍSICO]
+          .col-lg-8.col-11.mb-4.mb-lg-0.pb-5
+            h4 FÍSICO
             p.mb-0 Se presenta por factores de naturaleza física, los cuales entran en contacto con el trabajador, produciendo efectos nocivos para la salud debido a la intensidad y el tiempo expuesto durante las jornadas de trabajo, tales como el ruido, las vibraciones y las temperaturas extremas.
           .col-auto
             figure
               img(src='@/assets/curso/tema7/img06.svg', style="width: 150px").m-auto
         .row.align-items-center.justify-content-center
-          .col-lg-8.mb-4.mb-lg-0
-            p #[b ELÉCTRICO]
+          .col-lg-8.col-11.mb-4.mb-lg-0.pb-5
+            h4 ELÉCTRICO
             p.mb-0 Este tipo de riesgo se encuentra en las producciones que tienen cercas eléctricas y/o conexiones para maquinaria o herramientas. Este se puede generar por contacto directo (paso de la corriente por el cuerpo humano).
           .col-auto
             figure
               img(src='@/assets/curso/tema7/img07.svg', style="width: 150px").m-auto
         .row.align-items-center.justify-content-center
-          .col-lg-8.mb-4.mb-lg-0
-            p #[b QUÍMICO]
+          .col-lg-8.col-11.mb-4.mb-lg-0.pb-5
+            h4 QUÍMICO
             p.mb-0 Este riesgo se da por la exposición no controlada al manejar o aplicar alguna sustancia química o un residuo potencialmente peligroso y pueden producir intoxicación o alergias respiratorias o de la piel.
           .col-auto
             figure
               img(src='@/assets/curso/tema7/img08.svg', style="width: 150px").m-auto
         .row.align-items-center.justify-content-center
-          .col-lg-8.mb-4.mb-lg-0
-            p #[b PSICOSOCIAL]
+          .col-lg-8.col-11.mb-4.mb-lg-0.pb-5
+            h4 PSICOSOCIAL
             p.mb-0 Este tipo de riesgo se refiere a aquellos factores de las condiciones de trabajo que afectan a la salud de las personas a través de mecanismos psicológicos y fisiológicos a los que se llama estrés tales como la carga laboral, conductas violentas en el trabajo, monotonía y autonomía.
           .col-auto
             figure
               img(src='@/assets/curso/tema7/img09.svg', style="width: 150px").m-auto
         .row.align-items-center.justify-content-center
-          .col-lg-8.mb-4.mb-lg-0
-            p #[b PÚBLICO]
+          .col-lg-8.col-11.mb-4.mb-lg-0.pb-5
+            h4 PÚBLICO
             p.mb-0 Aquellos que se viven en los espacios públicos y que ponen en riesgo la integridad física e incluso la vida de las personas.
           .col-auto
             figure

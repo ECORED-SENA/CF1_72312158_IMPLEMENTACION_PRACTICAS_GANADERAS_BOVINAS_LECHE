@@ -66,7 +66,7 @@
     Separador
     #t_1_2
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.2 Implica
+      h2 1.2 Funciones
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-5

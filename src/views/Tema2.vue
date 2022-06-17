@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Política sanitaria y de inocuidad en alimentos
-    .row.mb-5.justify-content-center.align-items-center(data-aos="fade-left")
+    .row.mb-0.justify-content-center.align-items-center(data-aos="fade-left")
       .col-md-12.px-0
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mt-5
           .bloque-texto-g__img(
@@ -17,7 +17,7 @@
     .row.bg02.p-4(data-aos="fade-right")
       .col-12
         .row.align-items-center.mb-5
-          .col-lg-8.mb-4.mb-lg-0
+          .col-lg-8.mb-4.mb-lg-0.pt-5
             p #[span.etiqueta #[b Entonces, la sanidad ]] engloba a todas las instituciones estatales encargadas de proveer servicios que satisfagan las necesidades de:
             .row.justify-content-center
               .col.bg3.m-2
@@ -33,7 +33,7 @@
                 p.mb-0.text-center.p-3 #[b Diagnostico]
               .col.bg3.m-2
                 p.mb-0.text-center.p-3 #[b Recuperación de personal]
-          .col-lg-3
+          .col-lg-3.pt-5
             figure
               img(src='@/assets/curso/tema2/img02.svg', style="width: 350px").m-auto
         .row.mb-5

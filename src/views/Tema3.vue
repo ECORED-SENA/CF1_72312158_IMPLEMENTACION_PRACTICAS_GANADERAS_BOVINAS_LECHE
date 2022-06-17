@@ -142,8 +142,8 @@
       .col-lg-8
         .tarjeta.color-primario.p-3
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/tema3/img02.svg")
+            .col-3.col-sm-2.col-lg-2
+              img(src="@/assets/curso/tema3/img02.svg", style="width: 90px")
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
