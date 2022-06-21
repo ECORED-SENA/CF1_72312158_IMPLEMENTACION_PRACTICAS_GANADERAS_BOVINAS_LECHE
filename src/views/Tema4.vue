@@ -59,52 +59,53 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 4.2 Modelos e interpretación
     p.mb-5 En si no existen modelos predeterminados para formular y diseñar un protocolo o plan dirigido a la producción ganadera de leche, por lo cual hay diferentes formas de hacerlos dependiendo del tema y tipo de protocolo. #[span.etiqueta #[b Lo que es realmente importante es cómo se desarrollen dichos protocolos que básicamente deben seguir las siguientes recomendaciones:]]
-    .bg11
-      .row.align-items-center
-        .col-lg-5
+  
+      .row.align-items-center.tema4-2.justify-content-end.mb-4
+        .col-lg-5.img4-2
           figure
-            img(src='@/assets/curso/tema4/img10.svg', style="width: 500px").m-auto(data-aos="fade-right")
-        .col-lg-7
-          .row.mb-5
-            .col-md-3.col-xl.mb-3.mb-xl-0
-              .tarjeta-numerada.color-acento-botones.p-2.mb-3
-                .tarjeta-numerada__numero
-                  .h2 1
-                p.ms-4 Incluir las actividades bases y pertinente para los procesos productivos.
-            .col-md-3.col-xl.mb-3.mb-xl-0
-              .tarjeta-numerada.color-acento-botones.p-2.mb-3
-                .tarjeta-numerada__numero
-                  .h2 5
-                p.ms-4 Debe ser monitoreado y de ser necesario realizar ajustes
-            .row.mb-2
-              .col-md-3.col-xl.mb-3.mb-xl-0
-                .tarjeta-numerada.color-acento-botones.p-2.mb-3
-                  .tarjeta-numerada__numero
-                    .h2 2
-                  p.ms-4 Llevar un orden secuencial y lógico de acuerdo a la línea del proceso productivo
-              .col-md-3.col-xl.mb-3.mb-xl-0
-                .tarjeta-numerada.color-acento-botones.p-2.mb-3
-                  .tarjeta-numerada__numero
-                    .h2 6
-                  p.ms-4 Debe cumplirse a cabalidad con lo planteado dentro del protocolo <br>
-            .row.mb-5
-              .col-md-3.col-xl.mb-3.mb-xl-0
-                .tarjeta-numerada.color-acento-botones.p-2.mb-3
-                  .tarjeta-numerada__numero
-                    .h2 3
-                  p.ms-4 Ser fácil de entender por cualquier tipo de personal.
-              .col-md-3.col-xl.mb-3.mb-xl-0
-                .tarjeta-numerada.color-acento-botones.p-2.mb-3
-                  .tarjeta-numerada__numero
-                    .h2 7
-                  p.ms-4 Debe estar escrito y ser de fácil acceso para el personal que lo requiera
-              .row.mb-5
-                .col-md-3.col-xl.mb-3.mb-xl-0
+            img(src='@/assets/curso/tema4/img10.svg')
+        .col-lg-10.bg11
+          .row.py-5.mx-4.pb-3.tarjetas4-2.justify-content-end
+            .col-md-9
+              .row
+                .col-md-6.mb-3
+                  .tarjeta-numerada.color-acento-botones.p-2.mb-3
+                    .tarjeta-numerada__numero
+                      .h2 1
+                    p.ms-4.mb-0 Incluir las actividades bases y pertinente para los procesos productivos.
+                .col-md-6.mb-3
+                  .tarjeta-numerada.color-acento-botones.p-2.mb-3
+                    .tarjeta-numerada__numero
+                      .h2 5
+                    p.ms-4.mb-0 Debe ser monitoreado y de ser necesario realizar ajustes
+              
+                .col-md-6.mb-3
+                  .tarjeta-numerada.color-acento-botones.p-2.mb-3.h-100
+                    .tarjeta-numerada__numero
+                      .h2 2
+                    p.ms-4.mb-0 Llevar un orden secuencial y lógico de acuerdo a la línea del proceso productivo
+                .col-md-6.mb-3
+                  .tarjeta-numerada.color-acento-botones.p-2.mb-3
+                    .tarjeta-numerada__numero
+                      .h2 6
+                    p.ms-4.mb-0 Debe cumplirse a cabalidad con lo planteado dentro del protocolo <br>
+                
+                .col-md-6.mb-3
+                  .tarjeta-numerada.color-acento-botones.p-2.mb-3
+                    .tarjeta-numerada__numero
+                      .h2 3
+                    p.ms-4.mb-0 Ser fácil de entender por cualquier tipo de personal.
+                .col-md-6.mb-3
+                  .tarjeta-numerada.color-acento-botones.p-2.mb-3
+                    .tarjeta-numerada__numero
+                      .h2 7
+                    p.ms-4.mb-0 Debe estar escrito y ser de fácil acceso para el personal que lo requiera
+                .col-md-6.mb-3
                   .tarjeta-numerada.color-acento-botones.p-2.mb-3
                     .tarjeta-numerada__numero
                       .h2 4
-                    p.ms-4 Debe ser divulgado y comunicado con el personal de la producción
-                .col-md-3.col-xl.mb-xl-0
+                    p.ms-4.mb-0 Debe ser divulgado y comunicado con el personal de la producción
+            
     p.mb-5 Algunos de los protocolos más usuales en la producción pecuaria son los de bioseguridad, vacunación, limpieza y desinfección, manejo de residuos, control de vectores, entre otros. Veamos algunos protocolos que son utilizados en las unidades productivas:
     h3.text-center.mb-5 Protocolos utilizados en unidades productivas
     .row.mb-5
