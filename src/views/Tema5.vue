@@ -111,7 +111,7 @@
         .row(titulo="Transporte de animales en pie").align-items-center.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
             p #[b Transporte de animales en pie]
-            p este componente es muy importante sobre todo en las ganaderías de carne ya que, si no se tiene cuidado, toda la inversión realizada a lo largo de la crianza del animal puede verse duramente afectada solamente por un transporte inadecuado. Por lo mencionado anteriormente, siempre debe contratarse vehículos que ofrezcan las condiciones adecuadas con pisos antideslizantes, protección ante situaciones climáticas adversas y claramente que cumplan todos los requerimientos legales.
+            p Este componente es muy importante sobre todo en las ganaderías de carne ya que, si no se tiene cuidado, toda la inversión realizada a lo largo de la crianza del animal puede verse duramente afectada solamente por un transporte inadecuado. Por lo mencionado anteriormente, siempre debe contratarse vehículos que ofrezcan las condiciones adecuadas con pisos antideslizantes, protección ante situaciones climáticas adversas y claramente que cumplan todos los requerimientos legales.
           .col-lg-5
             figure
               img(src='@/assets/curso/tema5/img10.png', style="width: 250px")

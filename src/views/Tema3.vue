@@ -31,13 +31,13 @@
                 | Actividades de prevención y control de enfermedades.
               li 
                 i.fas.fa-angle-right(style="color: #FF854E")
-                | Delimitación de Predio.
+                | Delimitación de predio.
               li 
                 i.fas.fa-angle-right(style="color: #FF854E")
                 | Registro de ingresos y salidas.
               li 
                 i.fas.fa-angle-right(style="color: #FF854E")
-                | Manejo de Mortalidad.
+                | Manejo de mortalidad.
               li 
                 i.fas.fa-angle-right(style="color: #FF854E")
                 | Identificación de los animales.
@@ -71,7 +71,7 @@
             ul.lista-ul.ms-3
               li 
                 i.fas.fa-angle-right(style="color: #FF854E")
-                | Inspección de Insumos Veterinarios.
+                | Inspección de insumos veterinarios.
               li 
                 i.fas.fa-angle-right(style="color: #FF854E")
                 | No utilizar sustancias prohibidas.
@@ -80,10 +80,10 @@
                 | No se emplean medicamentos vencidos.
               li 
                 i.fas.fa-angle-right(style="color: #FF854E")
-                | Formulación de Medicamentos Veterinarios.
+                | Formulación de medicamentos veterinarios.
               li 
                 i.fas.fa-angle-right(style="color: #FF854E")
-                | Medicamentos Veterinarios de Control Especial.
+                | Medicamentos veterinarios de control especial.
               li 
                 i.fas.fa-angle-right(style="color: #FF854E")
                 | Instalaciones y áreas de almacenamiento de insumos.
@@ -92,7 +92,7 @@
                 | Uso de medicamentos y biológicos de acuerdo al rotulado.
               li 
                 i.fas.fa-angle-right(style="color: #FF854E")
-                | Registro Oficial de tratamientos veterinarios.
+                | Registro oficial de tratamientos veterinarios.
               li 
                 i.fas.fa-angle-right(style="color: #FF854E")
                 | Respeto del tiempo de retiro y periodo de carencia.

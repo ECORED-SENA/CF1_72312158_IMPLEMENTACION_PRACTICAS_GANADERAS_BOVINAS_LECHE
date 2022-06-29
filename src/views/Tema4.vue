@@ -72,7 +72,7 @@
                   .tarjeta-numerada.color-acento-botones.p-2.mb-3
                     .tarjeta-numerada__numero
                       .h2 1
-                    p.ms-4.mb-0 Incluir las actividades bases y pertinente para los procesos productivos.
+                    p.ms-4.mb-0 Incluir las actividades bases y pertinente para los procesos productivos
                 .col-md-6.mb-3
                   .tarjeta-numerada.color-acento-botones.p-2.mb-3
                     .tarjeta-numerada__numero
@@ -94,7 +94,7 @@
                   .tarjeta-numerada.color-acento-botones.p-2.mb-3
                     .tarjeta-numerada__numero
                       .h2 3
-                    p.ms-4.mb-0 Ser fácil de entender por cualquier tipo de personal.
+                    p.ms-4.mb-0 Ser fácil de entender por cualquier tipo de personal
                 .col-md-6.mb-3
                   .tarjeta-numerada.color-acento-botones.p-2.mb-3
                     .tarjeta-numerada__numero
@@ -143,7 +143,7 @@
                 th.h4.text-center(style="border-right: 2px solid #454545") Observaciones
                 th.h4.text-center Dosis recomendada
               tr(style="background-color: #F6F6F6")
-                th.h4(style="border-right: 2px solid #454545") Ácido cresìlico+Fenoles
+                th.h4(style="border-right: 2px solid #454545") Ácido cresìlico+fenoles
                 th.h4(style="border-right: 2px solid #454545") SPF 13-30 FARM
                 td(style="border-right: 2px solid #454545") En cualquier instalación de la granja, equipo y vehículos. Desinfección de pisos irregulares, pisos de tierra, almacenes, bodegas.
                 td(style="border-right: 2px solid #454545")

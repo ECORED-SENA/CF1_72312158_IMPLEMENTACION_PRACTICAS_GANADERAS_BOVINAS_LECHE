@@ -18,7 +18,7 @@
       .col-12
         .row.align-items-center.mb-5
           .col-lg-8.mb-4.mb-lg-0.pt-5
-            p #[span.etiqueta #[b Entonces, la sanidad ]] engloba a todas las instituciones estatales encargadas de proveer servicios que satisfagan las necesidades de:
+            p Entonces, #[span.etiqueta #[b la sanidad ]] engloba a todas las instituciones estatales encargadas de proveer servicios que satisfagan las necesidades de:
             .row.justify-content-center
               .col.bg3.m-2
                 p.mb-0.text-center.p-3 #[b Prevención]
@@ -60,35 +60,35 @@
       SlyderA(tipo="b")
         .row.align-items-center.justify-content-center
           .col-lg-4
-            h4 CONPES 3375 de 2005.
+            h4 CONPES 3375 de 2005
             p Política Nacional de Sanidad Agropecuaria e Inocuidad de Alimentos para el Sistema de Medidas Sanitarias y Fitosanitarias- MSF. Que es la introducción del enfoque sistémico con el objeto de articular las entidades con competencias y funciones en materia sanitaria y fitosanitaria.
           .col-auto.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img06.svg', style="width: 650px").m-auto
         .row.align-items-center.justify-content-center
           .col-lg-4
-            h4 CONPES 3376 de 2005. 
+            h4 CONPES 3376 de 2005 
             p Política Sanitaria y de Inocuidad de las Cadenas de la Carne Bovina y la Leche. Encaminada a mejorar las condiciones de sanidad e inocuidad de las cadenas de la carne bovina y la leche, con el fin de proteger la salud y la vida de las personas, los animales, y preservar la calidad del medio ambiente; mejorar la competitividad de estas cadenas y obtener la admisibilidad de sus productos en los mercados internacionales.
           .col-auto.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img07.svg', style="width: 650px").m-auto
         .row.align-items-center.justify-content-center
           .col-lg-4
-            h4 CONPES 3676 de 2010. 
+            h4 CONPES 3676 de 2010 
             p Consolidación de la política sanitaria y de inocuidad para las cadenas láctea y cárnica.
           .col-auto.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img08.svg', style="width: 650px").m-auto
         .row.align-items-center.justify-content-center
           .col-lg-4
-            h4 Decreto 616 de 2006.
+            h4 Decreto 616 de 2006
             p Reglamento Técnico sobre los requisitos que debe cumplir la leche para el consumo humano que se obtenga, procese, envase, transporte, comercialice, expenda, importe o exporte en el país.
           .col-auto.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img09.png', style="width: 650px").m-auto
         .row.align-items-center.justify-content-center
           .col-lg-4
-            h4 Resolución 068167 de 2020. 
+            h4 Resolución 068167 de 2020 
             p Política Sanitaria y de Inocuidad de las Cadenas de la Carne Bovina y la Leche. Encaminada a mejorar las condiciones de sanidad e inocuidad de las cadenas de la carne bovina y la leche, con el fin de proteger la salud y la vida de las personas, los animales, y preservar la calidad del medio ambiente; mejorar la competitividad de estas cadenas y obtener la admisibilidad de sus productos en los mercados internacionales.
           .col-auto.mb-4.mb-lg-0
             figure

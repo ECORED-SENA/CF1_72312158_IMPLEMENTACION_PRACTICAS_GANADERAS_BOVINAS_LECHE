@@ -54,7 +54,7 @@
         figure
           img(src='@/assets/curso/tema6/img03.svg', style="width: 650px").m-auto(data-aos="fade-right")
       .col-lg-6
-        p.mb-0 Una vez aplicada la lista de chequeo, se van a contabilizar los aspectos fundamentales (F), los mayores (My) y los menores (Mn) para determinar los porcentajes de incumplimiento y fijar un plan de trabajo que permita sobre todo, llevar los aspectos menores y fundamentales al 100% y los Mayores cerca del 100%, lo que será suficiente para obtener la certificación del predio en BPG y permitirá obtener beneficios en la empresa tanto en el nivel interno como externo, lo que le permitirá obtener una ventaja competitiva en temas de producto, mercado, medio ambiente, bienestar animal, disminución de riesgos laborales, entre otros.
+        p.mb-0 Una vez aplicada la lista de chequeo, se van a contabilizar los aspectos fundamentales (F), los mayores (My) y los menores (Mn) para determinar los porcentajes de incumplimiento y fijar un plan de trabajo que permita sobre todo, llevar los aspectos menores y fundamentales al 100% y los mayores cerca del 100%, lo que será suficiente para obtener la certificación del predio en BPG y permitirá obtener beneficios en la empresa tanto en el nivel interno como externo, lo que le permitirá obtener una ventaja competitiva en temas de producto, mercado, medio ambiente, bienestar animal, disminución de riesgos laborales, entre otros.
 
 </template>
 

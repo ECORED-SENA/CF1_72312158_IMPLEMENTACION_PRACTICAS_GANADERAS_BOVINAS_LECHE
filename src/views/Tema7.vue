@@ -178,7 +178,7 @@
         .tarjeta.color-secundario
           .text-white.p-4
             h4.text-center Delantal plástico
-            p Se utiliza en las labores de contacto con fluidos de los animales como partos o palpaciones
+            p Se utiliza en las labores de contacto con fluidos de los animales como partos o palpaciones.
 
 </template>
 
