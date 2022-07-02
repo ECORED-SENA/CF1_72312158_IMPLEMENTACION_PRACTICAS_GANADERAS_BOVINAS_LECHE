@@ -248,7 +248,7 @@ export default {
         icono: require('@/assets/curso/tema7/img01.svg'),
       },
       {
-        titulo: 'Resolución 1986 2013',
+        titulo: 'Resolución 2013 1986',
         texto:
           'Por la cual se reglamenta la organización y funcionamiento de los Comités de Medicina, Higiene y Seguridad Industrial en los lugares de trabajo.',
         icono: require('@/assets/curso/tema7/img01.svg'),

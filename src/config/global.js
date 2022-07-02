@@ -127,7 +127,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '5.2',
-            titulo: 'Tipos, uso manejo BPG',
+            titulo: 'Tipos, uso, manejo BPG',
             hash: 't_5_2',
           },
         ],

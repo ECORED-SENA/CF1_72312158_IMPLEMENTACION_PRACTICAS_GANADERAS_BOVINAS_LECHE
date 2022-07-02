@@ -15,7 +15,7 @@
     Separador
     #t_5_1
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 5.1 Diseño
+      h2 5.1 Clasificación
     p.mb-5 Las buenas prácticas ganaderas BPG se pueden clasificar en las siguientes:
     .row.mb-5.h-100
       .col-lg-6.mb-4.mb-lg-0
@@ -39,7 +39,7 @@
     Separador
     #t_5_2
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 5.2 Tipos, uso manejo BPG
+      h2 5.2 Tipos, uso, manejo BPG
     p El uso y manejo que se da a las BPG se encuentra enfocado en obtener un producto inocuo, mejorar la seguridad y salud en el trabajo, mitigar el impacto negativo que tienen las producciones ganaderas en el medio ambiente, mejorar la rentabilidad de la producción entre otros.
     p Para lograr un exitoso uso y manejo de las BPG, es necesario establecer los protocolos para las actividades que lo requieran y realizar el adecuado manejo de los registros, labores que van a permitir tomar decisiones a tiempo y establecer las medidas correctivas necesarias para el mejoramiento de la productividad de la empresa ganadera.
     p.mb-5 #[b Ya conociendo lo anterior, es importante conocer cada uno de los componentes que se deben tener en cuenta en el uso y manejo de las BPG, veamos sus descripciones:]
@@ -52,7 +52,7 @@
           .col-lg-5
             figure
               img(src='@/assets/curso/tema5/img01.png', style="width: 250px")
-        .row(titulo="Instalaciones").align-items-center.justify-content-center
+        .row(titulo="Bioseguridad").align-items-center.justify-content-center
           .col-lg-6.mb-4.mb-lg-0
             p #[b Bioseguridad]
             p Se debe proteger el predio contra el ingreso de enfermedades implementando prácticas como controlar el ingreso de personas, vehículos y animales ajenos a la producción, instalar pocetas y arcos de desinfección, establecer cercos y cerramientos de la finca, para evitar paso e ingreso de personal.
@@ -77,6 +77,28 @@
           .col-lg-6.mb-4.mb-lg-0
             p #[b Manejo sanitario]
             p El Médico Veterinario deberá construir un plan de manejo sanitario que garantizará los niveles saludables en el hato. Este plan deberá tener claramente definidas las actividades, las fechas de ejecución y los responsables de desarrollar dichas tareas. Además, deberán hacerse controles periódicos durante el año con el fin de lograr identificar a tiempo algún evento desfavorable relacionado con la salud del hato.
+            ul.lista-ul.ms-3
+              li 
+                i.fas.fa-angle-right(style="color: #FF854E")
+                | Pautas de manejo
+              li 
+                i.fas.fa-angle-right(style="color: #FF854E")
+                | Clínica veterinaria
+              li 
+                i.fas.fa-angle-right(style="color: #FF854E")
+                | Vacunaciones
+              li 
+                i.fas.fa-angle-right(style="color: #FF854E")
+                | Costo
+              li 
+                i.fas.fa-angle-right(style="color: #FF854E")
+                | Insumos
+              li 
+                i.fas.fa-angle-right(style="color: #FF854E")
+                | Gasto Inversión
+              li 
+                i.fas.fa-angle-right(style="color: #FF854E")
+                | Vacunas estratégicas
           .col-lg-5
             figure
               img(src='@/assets/curso/tema5/img05.png', style="width: 250px")
@@ -115,8 +137,9 @@
           .col-lg-5
             figure
               img(src='@/assets/curso/tema5/img10.png', style="width: 250px")
-    figure
-      img(src='@/assets/curso/tema5/img04.svg', style="width: 850px").m-auto(data-aos="fade-right")
+    .row.justify-content-center(data-aos="fade-right")
+      figure
+        img(src='@/assets/curso/tema5/img04.svg', style="width: 850px").m-auto(data-aos="fade-right")
 
 </template>
 

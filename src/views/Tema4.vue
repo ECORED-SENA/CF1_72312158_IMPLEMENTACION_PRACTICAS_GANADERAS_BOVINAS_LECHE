@@ -23,7 +23,7 @@
           h3.text-center Procesos Productivos
           .row.justify-content-center
             .col-lg-8
-              p.text-center.mb-5 El medico Veterinario es quien debe aportar a un equipo interdisciplinario quienes serán los encargados de planear, ejecutar y monitorear  los procesos productivos.
+              p.text-center.mb-5 El médico Veterinario es quien debe aportar a un equipo interdisciplinario quienes serán los encargados de planear, ejecutar y monitorear  los procesos productivos.
           .row.justify-content-center
             .col-8.col-lg
               .p-3

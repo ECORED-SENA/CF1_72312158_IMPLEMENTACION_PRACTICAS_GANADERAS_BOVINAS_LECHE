@@ -30,7 +30,7 @@
               .col.bg3.m-2
                 p.mb-0.text-center.p-3 #[b Control]
               .col.bg3.m-2
-                p.mb-0.text-center.p-3 #[b Diagnostico]
+                p.mb-0.text-center.p-3 #[b Diagnóstico]
               .col.bg3.m-2
                 p.mb-0.text-center.p-3 #[b Recuperación de personal]
           .col-lg-3.pt-5
@@ -113,8 +113,8 @@
           img(src='@/assets/curso/tema2/img11.png', style="width: 350px")
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/0Y-9knRteKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
-        
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Zhayk0UYWzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+       
 </template>
 <script>
 export default {
